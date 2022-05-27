@@ -1,0 +1,9 @@
+{
+  "name": "NodeBankJavaScript",
+  "version": "0.0.0",
+  "description": "NodeBank JavaScript",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
