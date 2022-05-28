@@ -1,9 +1,16 @@
 {
-  "name": "NodeBankJavaScript",
+  "name": "nodebankjavascript",
   "version": "0.0.0",
   "description": "NodeBank JavaScript",
   "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+    },
   "author": {
     "name": ""
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
   }
 }
